@@ -13,13 +13,13 @@
 
 :root {
   --bg-color: #081b29;
-  --main-color: #00abf0;
+  --main-color: #9C2135;
   --text-color: #333;
   --second-text-color: #555;
   --white-color: #fff;
-  --cover-color: linear-gradient(45deg, #00abf0, #006e9a);
+  --cover-color: linear-gradient(45deg, #9C2135, #6d1725);
   --pages-color: linear-gradient(90deg, #fff, #ddd);
-  --border: .125rem solid #00abf0;
+  --border: .125rem solid #9C2135;
   --box-shadow: 0 0 .6rem rgba(0, 0, 0, .2);
 }
 
